@@ -1,0 +1,41 @@
+{
+    "sid": 989898,
+    "student_name": "Sharaf Aboobacker",
+    "grade": "3",
+    "mobile_no": "525252525",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+{
+    "sid": 785624,
+    "student_name": "Mohamed Aqeeth",
+    "grade": "4",
+    "mobile_no": "779020927",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+{
+    "sid": 656565,
+    "student_name": "Nilam Ahamed",
+    "grade": "4",
+    "mobile_no": "56565656",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+{
+    "sid": 242628,
+    "student_name": "Fathima Ayana",
+    "grade": "4",
+    "mobile_no": "5689128",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+{
+    "sid": 981256,
+    "student_name": "Fathima Adheena",
+    "grade": "1",
+    "mobile_no": "5689128",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+
+insert into student values(989898, 'Sharaf Aboobacker','3',525252525,'Skiply School of Excellence - Integrate Model');
+insert into student values(656565, 'Nilam Ahamed','4',56565656,'Skiply School of Excellence - Integrate Model');
+insert into student values(125125, 'Aazath Abdul Salam','8',752861246,'Skiply School of Excellence - Integrate Model');
+insert into student values(567892, 'Fathima Ayana','4', 761255292,'Skiply School of Excellence - Integrate Model');
+insert into student values(785624, 'Mohamed Aqeeth','4', 779020927,'Skiply School of Excellence - Integrate Model');
