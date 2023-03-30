@@ -1,0 +1,36 @@
+{
+    "sid": 989898,
+    "student_name": "Sharaf Aboobacker",
+    "grade": "3",
+    "mobile_no": "525252525",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+{
+    "sid": 785624,
+    "student_name": "Mohamed Aqeeth",
+    "grade": "4",
+    "mobile_no": "779020927",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+{
+    "sid": 656565,
+    "student_name": "Nilam Ahamed",
+    "grade": "4",
+    "mobile_no": "56565656",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+{
+    "sid": 242628,
+    "student_name": "Fathima Rihana"
+    "grade": "4",
+    "mobile_no": "5689128",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+{
+    "sid": 981256,
+    "student_name": "Fathima Nasiya"
+    "grade": "1",
+    "mobile_no": "5689128",
+    "school_name": "Skiply School of Excellence - Integrate Model"
+}
+
